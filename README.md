@@ -1,4 +1,4 @@
-# Particles-SFML-
+# 2D Particles-SFML-
 Here’s a README template you can use for your project. It explains what the code does, how to set it up, and provides additional details for users.
 
 ---
